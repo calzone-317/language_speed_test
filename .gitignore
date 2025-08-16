@@ -1,0 +1,33 @@
+# Visual Studio 캐시/사용자 설정
+.vs/
+*.user
+*.suo
+
+# 빌드 산출물
+bin/
+obj/
+Debug/
+Release/
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio 옵션/캐시
+*.dbmdl
+*.VC.db
+*.VC.opendb
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# 기타
+*.log
+*.tmp
+.vscode/
+.idea/
